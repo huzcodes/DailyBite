@@ -2,13 +2,14 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to the official documentation repository for **DailyBite** – an open-source application designed to deliver daily food inspiration. Whether you're cooking at home or deciding where to order from, DailyBite helps you make that choice with a smart, AI-powered engine.
+Welcome to the official documentation repository for **DailyBite**  an open-source application designed to deliver daily food inspiration. Whether you're cooking at home or deciding where to order from, DailyBite helps you make that choice with a smart, AI-powered engine.
 
 
 
 ## Project Overview
 
-**DailyBite** is a modern food suggestion platform that leverages intelligent APIs and clean architecture to provide personalized meal ideas. The application supports both home-cooked recipes and recommendations for takeout options — all tailored to the user’s language and preferences.
+**DailyBite** is a modern food suggestion platform that leverages intelligent APIs and clean architecture to provide personalized meal ideas. The application supports both home-cooked recipes and recommendations for takeout options 
+all tailored to the user’s language and preferences.
 
 
 
